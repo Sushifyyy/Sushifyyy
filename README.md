@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sushmita.
--  I'm pretty much interested in Backend development.
+-  New to the field of Computer Science, exploring Backend development at the moment.
 - 🌱 I’m currently learning C for understanding low level stuff.
 - 📫 How to reach me: sushmitadutta4541@gmail.com
 - 😄 Pronouns: she/her
